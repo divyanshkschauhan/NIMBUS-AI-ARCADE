@@ -1,0 +1,6 @@
+gym
+pygame
+copy
+numpy
+tkinter
+subprocess
