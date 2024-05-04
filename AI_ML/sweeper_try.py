@@ -147,7 +147,7 @@ while running:
                     cl=col
                     safe_tiles = find_safe_tiles()
                     if safe_tiles:
-                        print("Safe tiles to play:", safe_tiles)
+                        print("Mines Found!:", safe_tiles)
 
 
             
