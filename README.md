@@ -19,3 +19,4 @@ Minesweeper with AI Assistant
 Delve into the world of minesweeper and rely on our backtracking algorithm to detect mines and clear the board with precision and efficiency. Safeguard your territory, uncover hidden dangers, and strategize your way to victory in this classic game of deduction and risk management. Our game indicates the places where there will surely be a mine as the player plays the game assisting the player in solving the game.
 
 Whether you're a casual player looking for a fun challenge or a seasoned gamer seeking a new twist on old favorites, the AI Arcade offers something for everyone. Explore our repository, engage with our intelligent algorithms, and elevate your gaming experience to new heights. Welcome to the future of gaming, where AI meets arcade classics!
+# AI-Arcade
