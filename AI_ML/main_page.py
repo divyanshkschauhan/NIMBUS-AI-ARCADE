@@ -36,7 +36,7 @@ background_label = tk.Label(root, image=background_photo)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
 # Heading label with style
-heading_label = tk.Label(root, text="AI ARCADE", font=("Arial", 36, "bold"), fg="white", bg="black")
+heading_label = tk.Label(root, text="AI ARCADE", font=("Arial", 37, "bold"), fg="white", bg="black")
 heading_label.pack(side=tk.TOP, pady=40)
 
 button_image1 = Image.open(r"Images\mine_img.png")  

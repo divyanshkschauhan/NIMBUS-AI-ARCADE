@@ -3,7 +3,7 @@ import random
 
 
 class GameState:
-    INFINITY = 9999999
+    INFINITY = 99999999
 
     def __init__(self):
         self.board = [["bR", "bN", "bB", "bQ", "bK", "bB", "bN", "bR"],
